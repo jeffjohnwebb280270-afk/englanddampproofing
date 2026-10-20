@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.englanddampproofing.co.uk/sitemap.xml
+
